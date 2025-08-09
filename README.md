@@ -1,12 +1,10 @@
 <h1 style="text-align:center;">✨Hello, I'm Nguyen Nhan Manh Duc</h1>
 <h3 style="text-align:center;">🎒I'm a Cybersecurity student, trying to learn cybersec</h3>
 
-- I'm interested in <img src="https://img.shields.io/badge/Forensic-FFF00?style=flat" alt="Forensic" style="position:relative; top:5px">
-  <img src="https://img.shields.io/badge/Crypto-FF0000?style=flat"   alt="Crypto"   style="position:relative; top:5px">
+- I'm interested in <img src="https://img.shields.io/badge/Forensic-FFF00?style=flat" alt="Forensic">
+  <img src="https://img.shields.io/badge/Crypto-FF0000?style=flat"   alt="Crypto">
 - Student
-- Learning to do 📅<img src="https://img.shields.io/badge/CTF-000000?style=flat" alt="CTF" style="position:relative; top:5px">
-<br />
-
+- Learning to do 📅<img src="https://img.shields.io/badge/CTF-000000?style=flat" alt="CTF">
 # Skills
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,bash&theme=dark)](https://skillicons.dev)

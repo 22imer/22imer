@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Crypto-FF0000?style=flat"   alt="Crypto"   style="position:relative; top:5px">
 - Student
 - Learning to do 📅<img src="https://img.shields.io/badge/CTF-000000?style=flat" alt="CTF" style="position:relative; top:5px">
-<br />
 
 # Skills
 

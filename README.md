@@ -12,11 +12,22 @@
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,bash&theme=dark)](https://skillicons.dev)
 
 # 📝Stats
----
-[![22imer's GitHub stats](https://github-readme-stats.vercel.app/api?username=22imer&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=22imer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api?username=22imer&show_icons=true&theme=radical"
+      alt="22imer's GitHub stats"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=22imer&theme=radical&layout=compact"
+      alt="Top Languages"
+    />
+  </a>
+</p>
 
 ---
 ### Commits history

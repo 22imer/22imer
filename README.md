@@ -13,12 +13,27 @@
 
 # 📝Stats
 ---
-[![22imer's GitHub stats](https://github-readme-stats.vercel.app/api?username=22imer&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=22imer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api?username=22imer&show_icons=true&theme=radical"
+      alt="22imer's GitHub stats"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=22imer&theme=radical&layout=compact"
+      alt="Top Languages"
+    />
+  </a>
+</p>
 
 
 ---
-<picture>
+### Commits history
+<pictures>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/22imer/22imer/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/22imer/22imer/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/22imer/22imer/output/github-contribution-grid-snake.svg">

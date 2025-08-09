@@ -1,24 +1,6 @@
-<style>
-  .text-badge {
-    display: inline-block;        /* lets padding/border wrap the text */
-    padding: .15em .5em;
-    border: 3px solid #111;
-    border-radius: .35em;  
-    font-weight: 600;
-    line-height: 1;
-  }
-  .green{
-    background: #22c55e;
-    color: #fff;
-  }
-  .red{
-    background: #ff0101ff;
-    color: #fff;
-  }
-</style>
 
 
-<html>
+<link rel="stylesheet" href="/style.css">
 <h1 style="text-align:center;">.✨Hello, I'm Nguyen Nhan Manh Duc</p>
 
 ### I'm a Cybersecurity student
@@ -41,7 +23,4 @@
 
 <img align="left" src="https://komarev.com/ghpvc/?username=22imer&color=069494&style=for-the-badge" />
 
-
-
-</html>
 
